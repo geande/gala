@@ -1,6 +1,6 @@
 ---
 title: This is a picture
-image: assets/images/fulls/img (1).jpg
-thumbnail: assets/images/thumbs/img (1).jpg
+image: assets/images/fulls/img_00.jpg
+thumbnail: assets/images/thumbs/img_00.jpg
 caption: A picture
 ---
