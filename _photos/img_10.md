@@ -1,0 +1,6 @@
+--- 
+title: img_10
+image: assets/images/fulls/img_10.jpg 
+thumbnail: assets/images/thumbs/img_10.jpg 
+caption: Sed velit lacus, laoreet at venenatis convallis in lorem tincidunt. 
+--- 
