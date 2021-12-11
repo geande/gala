@@ -3,11 +3,13 @@ title: Gallery
 description: these are some cool pictures I've taken over the years.  Enjoy!
 baseurl: "/gala" # the subpath of your site, e.g. /blog
 url: "//geande.github.io" # the base hostname & protocol for your site
-author:
+author: Andrew Garrett
 
 # Collection settings
 collections:
-  photos:
+  photos: 
+    data-position: "center"
+  
 
 # Social settings
 500px_url:
